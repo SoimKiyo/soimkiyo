@@ -1,5 +1,23 @@
-# 🦊 Apropos de moi:
-📍 Je suis un développeur amateur <br>portant le pseudo de SoImKiyo (So I Am Kiyo). <br>Je suis passionné par la musique notamment la guitare,<br>j'aime en général énormément les domaines artistiques<br>tel que la vidéo/musique/dessin/design/etc.<br>C'est pour cela que j'ai commencé à m'intéresser au développement<br>dans le but de donner une dimension tangible à mes idées !<br><br>💽 Je suis principalement entraîner sur les languages<br>de programmation tel que Python, Html, CSS, Java,<br>SQL, NodeJS.<br>J'ai déjà expérimenter d'autre language comme Javascript,<br>C, C#, PHP, Lua, etc, mais je ne l'ai est pas suffisamment découvert<br>pour les manier un minimum.<br>Pour apprendre ces languages j'ai principalement travaillé de mon côté,<br>j'ai également suivi un cursus scolaire orienter avec notamment la spécialité NSI.<br>J'ai réaliser des sites (design inclus) en code pur puis en nocode avec Wordpress<br>pour une question de confort d'utilisation/modifications pour mes clients).<br>J'ai également réalisé plusieurs projets personnel comme des bots discord,<br>des dashboard, des jeux basiques, des plugins Minecraft, des serveur RP sur le jeu GMOD<br><br>🛫 Mon but est donc d'améliorer et d'accumuler de la connaissance<br>dans le domaine. Pour le moment, je souhaite me diversifiées dans les languages,<br>et apprendre à mieux organiser/rendre polyvalent mes codes et simple<br>d'utilisation/à comprendre.<br>Enfin je compte également améliorer mes compétences en CSS pour pouvoir<br>proposer des codes épuré et avec une maîtrise du Responsive parfaite<br><br>📫 Si vous souhaitez me contacter voici mes informations :<br>* Email: soimkiyo.contact@gmail.com<br>* Discord: soimkiyo<br>* Réseaux: https://soimkiyo.carrd.co/
+# 🦊 **Apropos de moi:**
+
+📍 Je suis un **développeur amateur** portant le pseudo **SoImKiyo (So I Am Kiyo)**.<br>
+Je suis passionné par la **musique**, notamment la guitare, et en général par les domaines artistiques comme **la vidéo, la musique, le dessin, le design**, etc.<br>
+C’est cette passion qui m’a poussé à m’intéresser au **développement**, pour donner une **dimension tangible à mes idées** !<br><br>
+
+💽 Je suis principalement formé sur des langages de programmation comme **Python, HTML, CSS, Java, SQL** et **NodeJS**.<br>
+J’ai aussi expérimenté d’autres langages tels que **JavaScript, C, C#, PHP, Lua**, etc., sans toutefois les maîtriser pleinement.<br>
+J’ai appris ces langages en travaillant surtout **de manière autonome** et en suivant un **cursus scolaire** orienté avec la spécialité **NSI**.<br>
+J’ai réalisé des sites (design inclus) en **code pur** puis en **nocode** (WordPress pour faciliter la modification par mes clients).<br>
+J’ai également mené plusieurs projets personnels comme des **bots Discord, dashboards, jeux basiques, plugins Minecraft**, et des **serveurs RP** sur **GMOD**.<br><br>
+
+🛫 Mon objectif est d’**accumuler des connaissances** et de m’améliorer dans ce domaine.<br>
+Pour le moment, je souhaite **diversifier** mes compétences en langages de programmation et apprendre à **structurer mes codes pour les rendre polyvalents** et **faciles d’utilisation**.<br>
+Je compte aussi améliorer mes compétences en **CSS** pour créer des designs **épurés** avec une **maîtrise du responsive parfaite**.<br><br>
+
+📫 **Si vous souhaitez me contacter, voici mes informations :**<br>
+* **Email :** soimkiyo.contact@gmail.com<br>
+* **Discord :** soimkiyo<br>
+* **Réseaux :** [https://soimkiyo.carrd.co/](https://soimkiyo.carrd.co/)
 
 
 ## 📱 Réseaux:

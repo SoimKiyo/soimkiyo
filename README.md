@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 🦊 Apropos de moi:
 📍 Je suis un développeur amateur <br>portant le pseudo de SoImKiyo (So I Am Kiyo). <br>Je suis passionné par la musique notamment la guitare,<br>j'aime en général énormément les domaines artistiques<br>tel que la vidéo/musique/dessin/design/etc.<br>C'est pour cela que j'ai commencé à m'intéresser au développement<br>dans le but de donner une dimension tangible à mes idées !<br><br>💽 Je suis principalement entraîner sur les languages<br>de programmation tel que Python, Html, CSS, Java,<br>SQL, NodeJS.<br>J'ai déjà expérimenter d'autre language comme Javascript,<br>C, C#, PHP, Lua, etc, mais je ne l'ai est pas suffisamment découvert<br>pour les manier un minimum.<br>Pour apprendre ces languages j'ai principalement travaillé de mon côté,<br>j'ai également suivi un cursus scolaire orienter avec notamment la spécialité NSI.<br>J'ai réaliser des sites (design inclus) en code pur puis en nocode avec Wordpress<br>pour une question de confort d'utilisation/modifications pour mes clients).<br>J'ai également réalisé plusieurs projets personnel comme des bots discord,<br>des dashboard, des jeux basiques, des plugins Minecraft, des serveur RP sur le jeu GMOD<br><br>🛫 Mon but est donc d'améliorer et d'accumuler de la connaissance<br>dans le domaine. Pour le moment, je souhaite me diversifiées dans les languages,<br>et apprendre à mieux organiser/rendre polyvalent mes codes et simple<br>d'utilisation/à comprendre.<br>Enfin je compte également améliorer mes compétences en CSS pour pouvoir<br>proposer des codes épuré et avec une maîtrise du Responsive parfaite<br><br>📫 Si vous souhaitez me contacter voici mes informations :<br>* Email: soimkiyo.contact@gmail.com<br>* Discord: soimkiyo<br>* Réseaux: https://soimkiyo.carrd.co/
 
 
-## 🌐 Socials:
+## 📱 Réseaux:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/bBTgN29x5k) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@soimkiyo1) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/soimkiyo) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/SoImKiyo) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@SoImKiyo) 
 
 # 💻 Tech Stack:
@@ -12,16 +12,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=soimkiyo&theme=catppuccin_mocha&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=soimkiyo&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+## 🏆 Trophées GitHub
 ![](https://github-profile-trophy.vercel.app/?username=soimkiyo&theme=rose_pine&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
+### ⏳ Repo le plus contribué
 ![](https://github-contributor-stats.vercel.app/api?username=soimkiyo&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=soimkiyo&icon=5&color=2)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## ☕ Une ptit pièce ?
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/soimkiyo?country.x=FR&locale.x=fr_FR) 
 
   
